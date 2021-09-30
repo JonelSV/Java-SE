@@ -23,7 +23,7 @@ public class Main {
 		
 	        
 	        
-		int day = 3;
+		int day = 1;
 		
 		
 		 switch (day) {
@@ -57,10 +57,6 @@ public class Main {
 		
 		
 		
-		
-		
-		
-		
 		int num = 18 ;
 		 
 		if(num % 2 == 0) {
@@ -78,7 +74,6 @@ public class Main {
 		
 		}
 		
-		
-	
-
 };
+
+// I deleted the scanners and methods and all initial input are hard-coded "as instructed". 
